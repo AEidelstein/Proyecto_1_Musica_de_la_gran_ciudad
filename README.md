@@ -1,5 +1,5 @@
 # Proyecto_1_Musica_de_la_gran_ciudad
-
+Python Básico
 # Descripción del proyecto
 
 Siempre que realizamos un análisis tenemos que formular hipótesis que luego podamos poner a prueba. A veces aceptamos estas hipótesis; otras, las rechazamos. Para tomar las decisiones correctas, una empresa debe ser capaz de entender si está haciendo las suposiciones correctas.
