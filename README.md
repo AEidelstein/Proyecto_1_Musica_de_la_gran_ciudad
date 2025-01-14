@@ -11,7 +11,7 @@ EN: Whenever we conduct an analysis we have to formulate hypotheses that we can 
 
 In this project, you will compare music preferences in the cities of Springfield and Shelbyville. You will examine real data from Y.Music to test the hypotheses below and compare the usage of users in these two cities.
 
-# Hipótesis
+# Hipótesis / Hypothesis
 
   1.  La actividad de los usuarios difiere según el día de la semana y dependiendo de la ciudad.
   2.  Los lunes por la mañana, los habitantes de Springfield y Shelbyville escuchan diferentes géneros. Lo mismo ocurre con los viernes por la noche.
